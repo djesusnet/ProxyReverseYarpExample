@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OmJ0UthKDj0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djesu\\RiderProjects\\ProxyReverseYarpExample\\ProxyReverseYarpExample\\ProxyReverseYarpExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\djesu\\AppData\\Roaming\\packages\\yarp.reverseproxy\\2.2.0\\yarp.reverseproxy.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

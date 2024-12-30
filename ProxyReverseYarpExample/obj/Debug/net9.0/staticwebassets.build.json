@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HD5CYT94yyT/hCeUmKFEDoWFbKaX0pV1VT9Mmy8kJvQ=",
+  "Source": "ProxyReverseYarpExample",
+  "BasePath": "_content/ProxyReverseYarpExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
